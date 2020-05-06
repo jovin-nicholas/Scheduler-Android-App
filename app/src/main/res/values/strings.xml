@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomCalendar</string>
+    <string-array name="shifts_array">
+        <item>Morning</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+</resources>
